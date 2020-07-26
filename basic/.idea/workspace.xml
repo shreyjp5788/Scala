@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af2a634d-d7a6-4b1e-b851-3149c151381e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1X8ZC4buoHbO3ZN9EVGvszrDvbS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="8" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.Property_assignment_methods">
+    <configuration name="Currying_PassByName" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="basics.Currying_PassByName" />
+      <module name="basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MutableVect2D" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="oobasics.MutableVect2D" />
+      <module name="basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oobasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Precedence" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="oobasics.Precedence" />
+      <module name="basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oobasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Property_assignment_methods" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="oobasics.Property_assignment_methods" />
+      <module name="basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oobasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vect2D" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="oobasics.Vect2D" />
+      <module name="basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oobasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Property_assignment_methods" />
+        <item itemvalue="Application.Precedence" />
+        <item itemvalue="Application.MutableVect2D" />
+        <item itemvalue="Application.Vect2D" />
+        <item itemvalue="Application.Currying_PassByName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="collectionTypeHighlightingLevel" value="2" />
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+    <option name="showImplisitConversions" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\DELL\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af2a634d-d7a6-4b1e-b851-3149c151381e" name="Default Changelist" comment="" />
+      <created>1580429550302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580429550302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581466043073">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="445" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1581466043073" />
+    <state x="671" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582779243619">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="671" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1582779243619" />
+    <state x="746" y="247" key="#xdebugger.evaluate" timestamp="1582850611137">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="746" y="247" key="#xdebugger.evaluate/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1582850611137" />
+    <state x="788" y="285" key="FileChooserDialogImpl" timestamp="1580575907804">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="788" y="285" key="FileChooserDialogImpl/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1580575907804" />
+    <state width="907" height="364" key="GridCell.Tab.0.bottom" timestamp="1583569211043">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1860" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1580533632820" />
+    <state width="907" height="364" key="GridCell.Tab.0.bottom/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1583569211043" />
+    <state width="907" height="364" key="GridCell.Tab.0.center" timestamp="1583569211043">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1860" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1580533632820" />
+    <state width="907" height="364" key="GridCell.Tab.0.center/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1583569211043" />
+    <state width="907" height="364" key="GridCell.Tab.0.left" timestamp="1583569211043">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1860" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1580533632820" />
+    <state width="907" height="364" key="GridCell.Tab.0.left/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1583569211043" />
+    <state width="907" height="364" key="GridCell.Tab.0.right" timestamp="1583569211043">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1860" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1580533632820" />
+    <state width="907" height="364" key="GridCell.Tab.0.right/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1583569211043" />
+    <state width="907" height="364" key="GridCell.Tab.1.bottom" timestamp="1583569211043">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.1.bottom/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1583569211043" />
+    <state width="907" height="364" key="GridCell.Tab.1.center" timestamp="1583569211043">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.1.center/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1583569211043" />
+    <state width="907" height="364" key="GridCell.Tab.1.left" timestamp="1583569211043">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.1.left/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1583569211043" />
+    <state width="907" height="364" key="GridCell.Tab.1.right" timestamp="1583569211043">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.1.right/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1583569211043" />
+    <state x="488" y="118" key="SettingsEditor" timestamp="1581555598367">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="440" y="118" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1580435418655" />
+    <state x="488" y="118" key="SettingsEditor/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1581555598367" />
+    <state x="658" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1586646086035">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="658" y="358" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586646086035" />
+    <state x="699" y="368" key="com.intellij.ide.util.TipDialog/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1582781544636" />
+    <state x="698" y="174" width="586" height="732" key="find.popup" timestamp="1580950582328">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="698" y="174" width="586" height="732" key="find.popup/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1580950582328" />
+    <state x="408" y="329" key="new project wizard" timestamp="1580622145948">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="342" y="268" key="new project wizard/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1580429796516" />
+    <state x="408" y="329" key="new project wizard/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1580622145948" />
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1582889977123">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup/62.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1582889977123" />
+  </component>
+</project>

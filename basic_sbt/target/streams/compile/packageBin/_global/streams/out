@@ -1,0 +1,9 @@
+[debug] Packaging D:\Coding\Scala\basic_sbt\target\scala-2.13\basic_sbt_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  D:\Coding\Scala\basic_sbt\target\scala-2.13\classes
+[debug] 	HelloWorld$.class
+[debug] 	  D:\Coding\Scala\basic_sbt\target\scala-2.13\classes\HelloWorld$.class
+[debug] 	HelloWorld.class
+[debug] 	  D:\Coding\Scala\basic_sbt\target\scala-2.13\classes\HelloWorld.class
+[debug] Done packaging.
